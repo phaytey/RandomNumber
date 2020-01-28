@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\obj\MCD\Debug\netcoreapp2.2\RandomNumber.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\obj\MCD\Debug\netcoreapp2.2\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\obj\MCD\Debug\netcoreapp2.2\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\obj\MCD\Debug\netcoreapp2.2\RandomNumber.AssemblyInfo.cs
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\bin\MCD\Debug\netcoreapp2.2\RandomNumber.deps.json
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\bin\MCD\Debug\netcoreapp2.2\RandomNumber.runtimeconfig.json
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\bin\MCD\Debug\netcoreapp2.2\RandomNumber.runtimeconfig.dev.json
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\bin\MCD\Debug\netcoreapp2.2\RandomNumber.dll
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\bin\MCD\Debug\netcoreapp2.2\RandomNumber.pdb
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\obj\MCD\Debug\netcoreapp2.2\RandomNumber.dll
+C:\Users\Public\Documents\Immersion\Projects\RandomNumber\obj\MCD\Debug\netcoreapp2.2\RandomNumber.pdb
